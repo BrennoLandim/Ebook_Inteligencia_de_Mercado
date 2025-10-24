@@ -24,7 +24,3 @@ O objetivo é mostrar como a Inteligência de Mercado transforma informações e
 
 Oferecer uma introdução clara e aplicada à **Inteligência de Mercado**, voltada a estudantes, empreendedores e profissionais que desejam desenvolver uma visão analítica sobre o ambiente competitivo.  
 
----
-
-## 🏗️ Estrutura do Repositório
-
