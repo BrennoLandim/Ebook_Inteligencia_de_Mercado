@@ -13,9 +13,6 @@ O e-book **"O que é Inteligência de Mercado e Por que é Importante"** apresen
 
 Clique abaixo para acessar a versão completa em PDF:  
 
-👉 [**Baixar E-book Inteligência de Mercado (PDF)**](https://github.com/BrennoLandim/Ebook_Inteligencia_de_Mercado/raw/main/Ebook/O%20que%20é%20Inteligência%20de%20Mercado%20e%20Por%20que%20é%20crucial_20251024_103323_0000.pdf)
+👉 [**Baixar E-book Inteligência de Mercado (PDF)**]file:///C:/Users/Evotur/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/UNPZM257/O%20que%20%C3%A9%20Intelig%C3%AAncia%20de%20Mercado%20e%20Por%20que%20%C3%A9%20crucial_20251024_103323_0000%20(003).pdf)
 
----
-
-## 🏗️ Estrutura do Projeto
 
