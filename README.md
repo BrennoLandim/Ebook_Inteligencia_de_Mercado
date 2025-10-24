@@ -3,16 +3,28 @@
 
 ---
 
-## 🧠 O que é Inteligência de Mercado?
+## 🧠 Sobre o E-book
 
-O e-book **"O que é Inteligência de Mercado e Por que é Importante"** apresenta os conceitos, técnicas e aplicações práticas dessa área estratégica, mostrando como a análise de dados e o monitoramento de mercado ajudam empresas a tomarem decisões mais inteligentes e competitivas.  
+O e-book **"Inteligência de Mercado: O que é e Por que é Crucial"** apresenta os fundamentos dessa área estratégica que combina **análise de dados**, **comportamento do consumidor** e **monitoramento competitivo**.  
+O objetivo é mostrar como a Inteligência de Mercado transforma informações em **insights valiosos** para decisões empresariais mais assertivas.
 
 ---
 
-## 📥 Baixar o E-book
+## 📊 Conteúdo Abordado
 
-Clique abaixo para acessar a versão completa em PDF:  
+- Conceito e importância da Inteligência de Mercado  
+- Principais ferramentas e métodos de análise  
+- Fontes de dados e monitoramento de concorrência  
+- Aplicações práticas em empresas e mercados emergentes  
+- Tendências e tecnologias que moldam o futuro da área  
 
-👉 [**Baixar E-book Inteligência de Mercado (PDF)**]file:///C:/Users/Evotur/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/UNPZM257/O%20que%20%C3%A9%20Intelig%C3%AAncia%20de%20Mercado%20e%20Por%20que%20%C3%A9%20crucial_20251024_103323_0000%20(003).pdf)
+---
 
+## 🧩 Objetivo
+
+Oferecer uma introdução clara e aplicada à **Inteligência de Mercado**, voltada a estudantes, empreendedores e profissionais que desejam desenvolver uma visão analítica sobre o ambiente competitivo.  
+
+---
+
+## 🏗️ Estrutura do Repositório
 
