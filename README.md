@@ -25,7 +25,7 @@ O objetivo é **capacitar profissionais e estudantes** a compreender e aplicar t
 ---
 
 ## 📂 Acesse o PDF  
-👉 [Clique aqui para abrir o eBook Inteligência de Mercado](./ebook_inteligencia_de_mercado.pdf)
+👉 [Clique aqui para abrir o eBook Inteligência de Mercado](https://drive.google.com/file/d/1ejQQp4FMvK2Y3s0G84ug8sZMRiUB6skO/view)
 
 > 💡 Caso o GitHub não exiba o PDF diretamente, clique com o botão direito e selecione “Salvar link como…” para fazer o download.  
 
