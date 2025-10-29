@@ -1,26 +1,35 @@
-# 📘 Ebook Inteligência de Mercado  
+# 📘 Ebook — Inteligência de Mercado  
+
 **Autor:** Brenno Landim  
+**Formato:** PDF  
+**Tema:** Estratégias, dados e tomada de decisão  
 
 ---
 
-## 🧠 Sobre o E-book
+## 🧠 Sobre o eBook  
+O **Ebook Inteligência de Mercado** apresenta de forma clara e objetiva os fundamentos dessa área essencial para empresas que buscam vantagem competitiva.  
+Você vai entender como a coleta, análise e disseminação de informações podem transformar dados em decisões estratégicas.  
 
-O e-book **"Inteligência de Mercado: O que é e Por que é Crucial"** apresenta os fundamentos dessa área estratégica que combina **análise de dados**, **comportamento do consumidor** e **monitoramento competitivo**.  
-O objetivo é mostrar como a Inteligência de Mercado transforma informações em **insights valiosos** para decisões empresariais mais assertivas.
-
----
-
-## 📊 Conteúdo Abordado
-
-- Conceito e importância da Inteligência de Mercado  
-- Principais ferramentas e métodos de análise  
-- Fontes de dados e monitoramento de concorrência  
-- Aplicações práticas em empresas e mercados emergentes  
-- Tendências e tecnologias que moldam o futuro da área  
+**Conteúdo abordado:**  
+- O que é Inteligência de Mercado e sua importância  
+- O ciclo da Inteligência de Mercado (do dado ao insight)  
+- Inteligência Competitiva e análise da concorrência  
+- Inteligência do Consumidor e personalização de experiências  
+- Tecnologias e ferramentas aplicadas à análise de mercado  
 
 ---
 
-## 🧩 Objetivo
+## 🚀 Objetivo  
+O objetivo é **capacitar profissionais e estudantes** a compreender e aplicar técnicas de Inteligência de Mercado para melhorar o processo decisório e antecipar tendências.  
 
-Oferecer uma introdução clara e aplicada à **Inteligência de Mercado**, voltada a estudantes, empreendedores e profissionais que desejam desenvolver uma visão analítica sobre o ambiente competitivo.  
+---
 
+## 📂 Acesse o PDF  
+👉 [Clique aqui para abrir o eBook Inteligência de Mercado](./ebook_inteligencia_de_mercado.pdf)
+
+> 💡 Caso o GitHub não exiba o PDF diretamente, clique com o botão direito e selecione “Salvar link como…” para fazer o download.  
+
+---
+
+## 💬 Contato  
+Se quiser sugerir melhorias ou compartilhar feedback sobre o eBook, fique à vontade para abrir uma *issue* ou enviar uma mensagem!  
